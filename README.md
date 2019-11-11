@@ -1,2 +1,2 @@
 # openCV
-Первая лаб. 
+Первая лаб. - ConsoleApplication1
