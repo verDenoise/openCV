@@ -1,3 +1,4 @@
 # openCV
-Первая лаб. - ConsoleApplication1
-Вторая лаб. - bird’s eye view
+Первая лаб. - ConsoleApplication1 ;
+
+Вторая лаб. - bird’s eye view ;
